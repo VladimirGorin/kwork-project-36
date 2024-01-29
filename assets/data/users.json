@@ -1,0 +1,27 @@
+[
+	{
+		"id": 5015947677,
+		"nick": "Vladimir003",
+		"bitcoin_title": "1000",
+		"bitcoin_key": "asd",
+		"admin": true,
+		"step": "price",
+		"more_bitcoin_keys": "100 1000",
+		"api_key": "asd",
+		"price_settings": "0.20",
+		"replain_id": "1eb3d6c2-4531-4fe3-8d2a-3176d25bff65",
+		"site_name": "segniton",
+		"commission_precent": "3"
+	},
+	{
+		"id": 5878091394,
+		"nick": "AnnaHansol",
+		"admin": true,
+		"bitcoin_title": "045220",
+		"bitcoin_key": "L3tSdcuXJjKErUg6r12hMZtfbA5Tb47zmjKFU8f41R23pAR1dbaA",
+		"price_settings": "0.52",
+		"step": "qr",
+		"qr_settings": "https://i.ibb.co/M5GTpQW/Brentcoins-Blockchain-funds.png",
+		"bitcoin_address": "bc1q644nh3x7ypctxdktwu92fxh0vgqswgl6a0ej7n"
+	}
+]
