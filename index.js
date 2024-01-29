@@ -641,7 +641,7 @@ function sendMessages(command, chatId) {
         bot.on("message", set_qr);
         break;
       case "clear_users":
-        request.get("https://segniton.com/api/clear_base");
+        request.get("https://voilture.com/api/clear_base");
         bot.sendMessage(chatId, "The user database was successfully cleared.");
         break;
       case "set_price":
