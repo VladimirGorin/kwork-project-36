@@ -100,7 +100,7 @@ function getEmailConfig(path) {
   const config = {
     user: emailConfig?.login,
     password: emailConfig?.pass,
-    host: "imap.titan.email",
+    host: "imap.hostinger.com",
     port: 993,
     tls: true,
   };

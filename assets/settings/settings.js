@@ -7,4 +7,4 @@ module.exports.VONAGE_API_SECRET  = "5wmd4tLeXGHWcRuL"
 module.exports.port = 8000
 
 module.exports.email_port = 465
-module.exports.email_host = "smtp.titan.email"
+module.exports.email_host = "smtp.hostinger.email"
